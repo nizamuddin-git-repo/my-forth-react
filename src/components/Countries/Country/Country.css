@@ -7,4 +7,10 @@
 
 .visited{
     background-color: aquamarine;
+    color: black;
+}
+.flag-container img{
+    width: 100px;
+    border-radius: 5px;
+    gap: 3px;
 }
